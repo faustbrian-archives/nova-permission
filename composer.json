@@ -17,8 +17,8 @@
     ],
     "require": {
         "php": "^7.4",
-        "illuminate/contracts": "^6.0|^7.0",
-        "illuminate/support": "^6.0|^7.0",
+        "illuminate/contracts": "^7.0|^8.0",
+        "illuminate/support": "^7.0|^8.0",
         "spatie/laravel-permission": "^3.7"
     },
     "require-dev": {
